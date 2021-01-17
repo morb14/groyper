@@ -1,0 +1,11 @@
+#Recommended Software (Windows)
+- Chocolatey - https://chocolatey.org/install
+- Waterfox - [choco install waterfox] - https://www.waterfox.net/
+- Brave - [choco install brave] - https://brave.com/ (The choco repo seems to be broken with this one)
+- Youtube-dlc - [choco install youtube-dlc] - https://github.com/blackjack4494/yt-dlc
+- Freetube - [choco install freetube --pre] - https://freetubeapp.io/
+- Telegram - [choco install telegram.portable] - https://telegram.org/
+- Paint.net - [choco install paint.net] - https://www.getpaint.net/
+- VSCodium - [choco install vscodium] - https://vscodium.com/
+- OBS Classic - https://github.com/jp9000/obs
+- Vegas Pro 18 - https://startcrack.com/magix-vegas-pro-crack/
