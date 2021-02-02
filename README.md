@@ -2,19 +2,7 @@
 
 # WIP
 ---
-## Normie Platforms
-- Youtube
-- Discord
-- Reddit
-- Twitter
-## Secure Platforms
-- Parler
-- Mastodon
-- Peertube
-- Telegram
 ## People
-- Nick Fuentes
-- morb
 - Patrick Casey
 - Jake Lloyd
 - Vincent James
