@@ -2,11 +2,6 @@
 
 # WIP
 ---
-## People
-- Patrick Casey
-- Jake Lloyd
-- Vincent James
-- Jaden Mcneil
 ## Topics
 - Immigration
 - Race Mixing
